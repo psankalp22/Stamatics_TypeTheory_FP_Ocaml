@@ -1,0 +1,4 @@
+(executable
+ (name tests)
+ (modules tests stackmachine compiler operator expression)
+ (libraries ounit2))

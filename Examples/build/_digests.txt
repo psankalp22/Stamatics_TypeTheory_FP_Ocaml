@@ -1,0 +1,8 @@
+"Rule: ocaml: ml -> cmo & cmi (%=expression )": "\161\1838\240\230\016\006\157\251 \179\1618{\157\238"
+"Rule: ocaml dependencies ml (%=expression )": "&N\231'\229\023\177!\159v\251EA\156\224k"
+"Resource: /home/psankalp22/iitk/stamatics/code/toycalc/operator.ml": "\203\011\192\254\146\014\011\127\163\156\180z\141\025\222\128"
+"Rule: ocaml: ml -> cmo & cmi (%=operator )": "Bv\019 \200\183\173\248\011\168\127\168\249G\001\177"
+"Resource: /home/psankalp22/iitk/stamatics/code/toycalc/operator.ml": "\220\230\168\155\0159\253\142\205\029-\rC-on"
+"Rule: ocaml dependencies ml (%=tests )": "\227Y\162\160i\224i~|\t\254EP\156\252\135"
+"Rule: ocaml dependencies ml (%=operator )": "Xu\157.A\211\215^\208\251m\022!\244\223\187"
+"Resource: /home/rishi/work/iitk/stamatics/code/toycalc/tests.ml": "\220Z\143\229\2414\180W\002\006\246\237y\\\219@"
